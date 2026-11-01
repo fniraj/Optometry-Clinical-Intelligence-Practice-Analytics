@@ -1,4 +1,4 @@
-                              Optometry Clinical Intelligence & Practice Analytics Platform
+                                 Optometry Clinical Intelligence & Practice Analytics Platform
 
 An integrated healthcare informatics prototype combining clinical analytics, practice operations, revenue-cycle insights, and AI-assisted information exploration.
 
